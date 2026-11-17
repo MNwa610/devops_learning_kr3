@@ -12,4 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес сайта: https://MNwa610.github.io/devops_learning_kr3/
-[Несуществующая страница](missing-page.md)
